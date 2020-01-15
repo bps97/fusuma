@@ -29,11 +29,11 @@
   },
   "homepage": "https://github.com/hiroppy/fusuma#readme",
   "devDependencies": {
-    "husky": "3.1.0",
+    "husky": "4.0.10",
     "jest": "24.9.0",
     "lerna": "3.20.2",
     "prettier": "1.19.1",
-    "pretty-quick": "1.11.1",
+    "pretty-quick": "2.0.1",
     "rewire": "4.0.1"
   },
   "jest": {
